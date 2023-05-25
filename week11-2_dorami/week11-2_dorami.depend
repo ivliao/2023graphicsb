@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682576930 source:c:\users\administrator\desktop\week11-2_dorami\main.cpp
+	<windows.h>
+	<GL/glut.h>
+
